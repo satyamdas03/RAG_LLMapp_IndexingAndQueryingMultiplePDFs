@@ -1,0 +1,12 @@
+prefix=c:/Users/HP/Desktop/WEBdev_projs/RAG_LLMapp_IndexingAndQueryingMultiplePDFs/venv/Library
+exec_prefix=c:/Users/HP/Desktop/WEBdev_projs/RAG_LLMapp_IndexingAndQueryingMultiplePDFs/venv/Library
+libdir=c:/Users/HP/Desktop/WEBdev_projs/RAG_LLMapp_IndexingAndQueryingMultiplePDFs/venv/Library/lib
+includedir=c:/Users/HP/Desktop/WEBdev_projs/RAG_LLMapp_IndexingAndQueryingMultiplePDFs/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

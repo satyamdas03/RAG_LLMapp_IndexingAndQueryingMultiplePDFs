@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/HP/Desktop/WEBdev_projs/RAG_LLMapp_IndexingAndQueryingMultiplePDFs/venv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
